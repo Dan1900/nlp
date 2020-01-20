@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a868ff-bd64-433c-b9bd-7c07a8671469" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/a2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect_submission.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_datasets.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved_params_5000.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved_state_5000.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sgd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/__MACOSX/stanfordSentimentTreebank/._README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/__MACOSX/stanfordSentimentTreebank/._datasetSentences.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/__MACOSX/stanfordSentimentTreebank/._datasetSplit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/__MACOSX/stanfordSentimentTreebank/._dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/__MACOSX/stanfordSentimentTreebank/._original_rt_snippets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/__MACOSX/stanfordSentimentTreebank/._sentiment_labels.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/stanfordSentimentTreebank/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/stanfordSentimentTreebank/SOStr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/stanfordSentimentTreebank/STree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/stanfordSentimentTreebank/datasetSentences.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/stanfordSentimentTreebank/datasetSplit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/stanfordSentimentTreebank/dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/stanfordSentimentTreebank/original_rt_snippets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/datasets/stanfordSentimentTreebank/sentiment_labels.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/gradcheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/treebank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
